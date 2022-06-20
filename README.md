@@ -3,3 +3,4 @@
 ![](https://img.shields.io/badge/NGINX-informational?style=for-the-badge&logo=NGINX&logoColor=green&color=000000)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=blue&color=000000)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=blue&color=000000)
+![](https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=blue&color=000000)
